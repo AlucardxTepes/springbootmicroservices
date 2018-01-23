@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/comment-store.iml" filepath="$PROJECT_DIR$/comment-store.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../spam-detection/spam-detection.iml" filepath="$PROJECT_DIR$/../spam-detection/spam-detection.iml" />
+    </modules>
+  </component>
+</project>
